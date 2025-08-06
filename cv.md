@@ -1,16 +1,16 @@
-# *Andrey Shpak**
+# *Andrey Shpak*
 ## Contacts
 * anshpak.by@gmain.com
 ## Summary
 A graduate of Belarusian State University looking for an internship or job as a System/Business Analyst, eager to gain experience and develop skills in this field.
 ## Projects and practical experience
-Business Analysis Projects:
+### Business Analysis Projects:
 * Developed a technical specification for a student and graduate database.
 * Created a vision document for a markup service.
 * Prepared a technical specification for a simple weather forecast application.
 * Drafted a technical specification for an online store.
 
-System Analysis Projects:
+### System Analysis Projects:
 * Designed use case scenarios for a furniture markup application.
 * Developed various UML diagrams, including: component, class, activity, state, and use case diagrams.
 
