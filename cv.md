@@ -17,18 +17,18 @@ A graduate of Belarusian State University looking for an internship or job as a 
 Completed a business analysis course at iMedia Solutions, where I conducted client interviews and collaborated in a team environment. Produced **documentation** to implement **process optimization** in a construction materials supply company. Studied **system** and **business analysis** at university, completing relevant courses. Currently working as an IT specialist in the **banking sector**, gaining hands-on experience in technology and business processes.
 
 ### Academic projects:
-* Developed an API for interacting with a MySQL database using mysql-connector-python, SQLAlchemy, and the Flask web framework.
-* Built a Telegram bot with database integration (telebot).
+* Developed an API for interacting with a **MySQL** database using **mysql-connector-python**, **SQLAlchemy**, and the **Flask** web framework.
+* Built a Telegram bot with database integration (**telebot**).
 
 ### Coursework & research:
-* Wrote a Python script (openpyxl) to convert between different .xlsx document formats.
-* Developed a desktop application (Python, Qt, SQLAlchemy, SQLite, NumPy) for doctors to record children’s voices, analyze vocal parameters, calculate the Mahalanobis distance between recorded and reference samples to assess deviations.
-* For my thesis project, studied convolutional and neural networks, implementing YOLO to detect product description areas on receipts, extract and process text for statistical analysis in .xlsx reports.
+* Wrote a Python script (**openpyxl**) to convert between different .xlsx document formats.
+* Developed a desktop application (**Python**, **Qt**, **SQLAlchemy**, **SQLite**, **NumPy**) for doctors to record children’s voices, analyze vocal parameters, calculate the **Mahalanobis** distance between recorded and reference samples to assess deviations.
+* For my thesis project, studied convolutional and neural networks, implementing **YOLO** to detect product description areas on receipts and **OCR** to extract and process text for statistical analysis in .xlsx reports.
 
 ### Relevant courses:
-Mathematical Foundations of Information Security,
-Machine Learning (pandas, scikit-learn).
+**Mathematical Foundations of Information Security**,
+**Machine Learning (pandas, scikit-learn)**.
 
 ### Java development:
-Currently learning Java. Built a MySQL API using Hibernate and JDBC. Exploring the Spring framework. Completed a semester-long Java fundamentals course at university, a two-month Java intensive by Aston (self-initiated).
+Currently learning **Java**. Built a MySQL API using **Hibernate** and **JDBC**. Exploring the **Spring** framework. Completed a semester-long Java fundamentals course at university, a two-month Java intensive by Aston (self-initiated).
 
