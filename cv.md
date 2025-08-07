@@ -32,3 +32,14 @@ Completed a business analysis course at iMedia Solutions, where I conducted clie
 ### Java development:
 Currently learning **Java**. Built a MySQL API using **Hibernate** and **JDBC**. Exploring the **Spring** framework. Completed a semester-long Java fundamentals course at university, a two-month Java intensive by Aston (self-initiated).
 
+## Education:
+Belarusian State University, Faculty of Mechanics and Mathematics. Bachelor's Degree: Computer Mathematics and Systems Analysis (2021 - 2025)
+
+## Skills
+* Python/Java (collections, core,  mysql-connector-python/JDBC, sqlalchemy/hibernate, Qt, Flask), GIT.
+* MySQL, SQLite.
+* Requirements gathering, analysis, and specification; technical documentation development.
+* User stories, use cases, and process flow documentation; UML diagram modeling (use case, activity, sequence, etc.).
+* UI/UX prototyping (wireframes, mockups).
+* In-depth domain research and meticulous attention to detail.
+* English (B1).
