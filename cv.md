@@ -1,6 +1,8 @@
 # Andrey Shpak
 ## Contacts
-* anshpak.by@gmain.com
+* **Location:** Minsk, Belarus.
+* **Email:** anshpak.by@gmain.com.
+
 ## Summary
 A graduate of Belarusian State University looking for an internship or job as a System/Business Analyst, eager to gain experience and develop skills in this field.
 ## Projects and practical experience
