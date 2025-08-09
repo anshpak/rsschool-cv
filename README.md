@@ -1,1 +1,1 @@
-[rsschool-cv](https://anshpak.github.io/rsschool-cv/cv)
+[rsschool-cv](https://anshpak.github.io/rsschool-cv/)
