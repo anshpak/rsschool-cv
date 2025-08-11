@@ -1,0 +1,13 @@
+@font-face {
+    font-family: Roboto;
+    src: url(assets/fonts/Roboto-Regular.ttf)
+}
+
+* {
+    box-sizing: border-box;
+    border: 1px solid red;
+}
+
+body {
+    min-height: 100vh;
+}
