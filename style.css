@@ -3,6 +3,10 @@
     src: url(assets/fonts/Roboto-Regular.ttf)
 }
 
+html {
+    scroll-behavior: smooth;
+}
+
 * {
     border: 1px solid red;
 }
@@ -19,4 +23,16 @@ body {
 .container {
     max-width: 1440px;
     margin: 0 auto;
+}
+
+.nav-list {
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    list-style: none;
+}
+
+.nav-link {
+    padding: 0 20px;
+    line-height: 50px;
 }
