@@ -47,3 +47,7 @@ body {
 .section-item a:hover {
     color: #4d2323;
 }
+
+.bold-text {
+    font-weight: bold;
+}
