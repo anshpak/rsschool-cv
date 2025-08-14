@@ -28,7 +28,7 @@ Completed a business analysis course at iMedia Solutions, where I conducted clie
 * For my thesis project, studied convolutional and neural networks, implementing **YOLO** to detect product description areas on receipts and **OCR** to extract and process text for statistical analysis in .xlsx reports.
 
 ### Relevant courses:
-**Mathematical Foundations of Information Security**,
+**Mathematical Foundations of Information Security**.
 **Machine Learning (pandas, scikit-learn)**.
 
 ### Java development:
